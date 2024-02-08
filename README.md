@@ -1,5 +1,5 @@
 
-# Making Leet Code Fun
+# Make Coding Fun
 
 Welcome to the "Making Leet Code Fun" GitHub repository! This project is dedicated to transforming the way we approach coding challenges, particularly those found on LeetCode, by adding a twist of creativity and fun to problem-solving. Whether you're preparing for software engineering interviews, brushing up on your coding skills, or just looking for a fun way to challenge yourself, you've come to the right place.
 
