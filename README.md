@@ -1,11 +1,14 @@
-
 # Make Coding Fun
 
-Welcome to the "Making Leet Code Fun" GitHub repository! This project is dedicated to transforming the way we approach coding challenges, particularly those found on LeetCode, by adding a twist of creativity and fun to problem-solving. Whether you're preparing for software engineering interviews, brushing up on your coding skills, or just looking for a fun way to challenge yourself, you've come to the right place.
+Welcome to Make Coding Fun, a project dedicated to bringing joy and creativity into the world of programming. Our mission is to provide a platform where learners of all levels can engage with coding challenges that are not just educational but also entertaining.
 
-## Project Overview
+## About the Project
 
-The aim of "Making Leet Code Fun" is to take traditional coding problems and re-imagine them in engaging, inventive scenarios. We believe that learning and problem-solving should be enjoyable, and what better way to do that than by adding a storyline or a unique context to the problems?
+Make Coding Fun is more than just a collection of coding problems. It's a community-driven initiative where each challenge is wrapped in a fun narrative or an imaginative scenario, making the problem-solving process an adventure.
+
+## Getting Started
+
+To dive into the fun, start by exploring our coding challenges:
 
 Each coding challenge in this repository is accompanied by:
 - A fun and engaging problem statement.
@@ -20,7 +23,7 @@ To get started with "Making Leet Code Fun," you'll want to follow these steps:
 1. **Clone the Repository**: Clone this repository to your local machine to get access to all the challenges and solutions.
 
 ```bash
-git clone https://github.com/yourusername/Making-Leet-Code-Fun.git
+git clone https://github.com/yourusername/Make-Coding-Fun.git
 ```
 
 2. **Explore the Challenges**: Navigate through the repository to find a list of challenges. Each challenge is located in its own directory, complete with a README.md file that contains the problem statement and other relevant information.
